@@ -9,8 +9,8 @@ App({
     },
     path: {
         res: "https://res.bestcake.com/",
-        //www: "https://mcstj.bestcake.com/"
-        www:"http://localhost:9419/"
+        www: "https://mcstj.bestcake.com/"
+       // www:"http://localhost:9419/"
     },
     user: {
         userid: 0,//用户ID
